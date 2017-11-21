@@ -32,3 +32,6 @@ This will set the main header (HTTP/1.1 StatusCode Descriptor) Example: HTTP/1.1
 Appends content to the output buffer
 <br>
 ```AppendContent(string s);```
+
+# Image
+![Unable to load image](https://i.gyazo.com/31e057c1c6f4baf506d570f2afedae41.png)
